@@ -1,0 +1,18 @@
+{
+    "name": "typescript-primeros-ejemplos",
+    "version": "1.0.0",
+    "description": "primeros ejemplos typescript",
+    "main": "ejemplo-typescript.js",
+    "scripts": {
+        "prueba": "node asciiChartTest.js hola todo bien",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "eBalquinta",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^12.0.12",
+        "ascii-data-table": "^2.1.1",
+        "asciichart": "^1.5.9",
+        "readline-sync": "^1.4.9"
+    }
+}
